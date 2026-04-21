@@ -1,0 +1,8 @@
+*.out
+
+archive.zip
+
+Byte/OsciSTM32/sources/Device/DebugConfig/*
+Byte/OsciSTM32/sources/Device/Listings-Debug/*
+Byte/OsciSTM32/sources/Device/Objects-Debug/*
+Byte/OsciSTM32/sources/generated/*
