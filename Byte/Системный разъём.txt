@@ -1,0 +1,115 @@
+A1  Grnd
+A2  вн.упр.RGB*
+A3  У10
+A4  ВН.БЛК.CLC
+A13 A9
+A14 A10
+A15 +12В
+A23 RD*
+A24 IORQ*
+A25 NMI*
+A26 BUSAK*
+A27 M1*
+A28 A13
+A31 RESET*
+A32 +5В
+
+B1  Grnd
+B2  упр. N стр.
+B3  B
+B4  R
+B12 УПР.ПЗУ
+B15 A11
+B20 D4
+B21 D2
+B22 D7
+B23 3.5МГц
+B24 MREQ*
+B25 D6
+B26 A0
+B28 BUSRQ*
+B29 A3
+B30 A7
+B31 A8
+B32 +5В
+
+C1  Grnd
+C2  G
+C3  гащ.ПЗУ*
+C4  вн.разр.ГЦП*
+C5  N строки
+C11 A6
+C12 A2
+C15 A4
+C18 A5
+С19 A1
+C20 D5
+C21 D1
+C22 D3
+C23 WR*
+C24 A15
+C25 A14
+C26 CLK*
+C27 HALT*
+C28 WAIT*
+C29 INT*
+C30 RFSH*
+C31 A12
+C32 D0
+
+
+A0  B26
+A1  C19
+A2  C12
+A3  B29
+A4  C15
+A5  C18
+A6  C11
+A7  B30
+A8  B31
+A9  A13
+A10 A14
+A11 B15
+A12 C31
+A13 A28
+A14 C25
+A15 C24
+
+D0  C32
+D1  C21
+D2  B21
+D3  C22
+D4  B20
+D5  C20
+D6  B25
+D7  B22
+
++12В         A15
++5В          A32,B32
+Grnd         A1,B1,C1
+RFSH*        C30
+RESET*       A31
+HALT*        C27
+BUSAK*       A26
+BUSRQ*       B28
+WAIT*        C28
+INT*         C29
+CLK*         C26
+NMI*         A25
+MREQ*        B24
+M1*          A27
+RD*          A23
+WR*          C23
+IORQ*        A24
+ВН.БЛК.CLC   A4
+УПР.ПЗУ      B12
+У10          A3
+3.5МГц       B23
+N строки     C5
+упр.N стр.   B2
+гаш.ПЗУ*     C3
+вн.упр.RGB*  A2
+вн.разр.ГЦП* C4
+R            B4
+G            C2
+B            B3
