@@ -58,39 +58,39 @@ C31 A12
 C32 D0
 
 
-A0  B26
-A1  C19
-A2  C12
-A3  B29
-A4  C15
-A5  C18
-A6  C11
-A7  B30
-A8  B31
-A9  A13
-A10 A14
-A11 B15
-A12 C31
-A13 A28
-A14 C25
-A15 C24
+A0  B26     DD71.8
+A1  C19     DD71.7
+A2  C12     DD71.6
+A3  B29     DD71.5
+A4  C15     DD71.4
+A5  C18     DD71.3
+A6  C11     DD71.2
+A7  B30     DD71.3
+A8  B31     DD61.2
+A9  A13     DD61.4
+A10 A14     DD61.6
+A11 B15     DD61.8
+A12 C31     DD61.11
+A13 A28     DD61.13
+A14 C25     DD61.15
+A15 C24     DD61.17
 
-D0  C32
-D1  C21
-D2  B21
-D3  C22
-D4  B20
-D5  C20
-D6  B25
-D7  B22
+D0  C32     DD74.18
+D1  C21     DD74.16
+D2  B21     DD74.14
+D3  C22     DD74.12
+D4  B20     DD74.9
+D5  C20     DD74.7
+D6  B25     DD74.5
+D7  B22     DD74.3
 
 +12В         A15
 +5В          A32,B32
 Grnd         A1,B1,C1
-RFSH*        C30
-RESET*       A31
-HALT*        C27
-BUSAK*       A26
+RFSH*        C30            DD42.28
+RESET*       A31            DD42.26
+HALT*        C27            DD42.18
+BUSAK*       A26            DD42.
 BUSRQ*       B28
 WAIT*        C28
 INT*         C29
