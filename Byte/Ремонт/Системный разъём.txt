@@ -84,32 +84,35 @@ D5  C20     DD74.7
 D6  B25     DD74.5
 D7  B22     DD74.3
 
-+12В         A15
-+5В          A32,B32
-Grnd         A1,B1,C1
-RFSH*        C30            DD42.28
-RESET*       A31            DD42.26
-HALT*        C27            DD42.18
-BUSAK*       A26            DD42.
-BUSRQ*       B28
-WAIT*        C28
-INT*         C29
-CLK*         C26
-NMI*         A25
-MREQ*        B24
-M1*          A27
-RD*          A23
-WR*          C23
-IORQ*        A24
-ВН.БЛК.CLC   A4
-УПР.ПЗУ      B12
-У10          A3
-3.5МГц       B23
-N строки     C5
-упр.N стр.   B2
-гаш.ПЗУ*     C3
-вн.упр.RGB*  A2
-вн.разр.ГЦП* C4
-R            B4
-G            C2
-B            B3
++12В               A15
++5В                A32,B32
+Grnd               A1,B1,C1
+RFSH*              C30            DD42.28
+RESET*             A31            DD42.26
+HALT*              C27            DD42.18
+BUSAK*             A26            DD42.
+BUSRQ*             B28        
+WAIT*              C28
+INT*               C29
+CLK*               C26
+NMI*               A25
+MREQ*              B24     D42.19 D14.1.1 D15.4.13
+M1*                A27
+RD*                A23     D16.1.2
+WR*                C23     D15.2.4 D17.1.1 D17.2.4
+IORQ*              A24
+ВН.БЛК.CLC         A4
+УПР.ПЗУ (ROMCS)    B12       
+У10 (19)           A3      D11.23(A8)
+3.5МГц             B23
+N строки (11)      C5      D11.8(A0) DD5.3(1) D13.2.5
+упр.N стр. (113)   B2
+гаш.ПЗУ* (94)      C3      D13.1.2
+вн.упр.RGB* (123)  A2      D13.1.1
+вн.разр.ГЦП* (107) C4
+R                  B4
+G                  C2
+B                  B3
+
+
+3.5MHz  11 19 94 107 113 123
