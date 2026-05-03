@@ -1,0 +1,8 @@
+*** Плата преобразователей логических уровней ***
+Разъём PBS-14 мама       2 шт     6byn   https://www.chipdip.by/product/pbs-14-ds1023-1x14-gnezdo-na-platu-2.54mm-1x14pin-connfly-650152747?from=suggest_product
+Разъём PLS-14 папа       2 шт
+TXS0108EPWR                              https://www.chipdip.by/product/txs0108epwr-preobrazovatel-logicheskogo-texas-instruments-9000163561
+
+*** Плата контроллера ***
+Разъём PLS-14 папа       2 шт    10byn   https://ozon.by/product/shtyrevye-odnoryadnye-razemy-na-platu-papa-pls-40-pryamye-40-pin-2-54-mm-10-shtuk-pld-razem-1046480730/?at=6WtZgxE62U5jzrDOfPJqRQJtOx76vNurlnJMVuEnMAQK
+МК STM32F103CBT6         1 шт    10 byn  https://www.chipdip.by/product/stm32f103cbt6-mikrokontroller-32-bit-st-microelectronics-9000052539?from=suggest_product
