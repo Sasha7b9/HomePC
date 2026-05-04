@@ -7,8 +7,8 @@
   Модули отладочные на TXS0108E   10 шт     13byn https://aliexpress.ru/item/32404824354.html?sku_id=12000040252179605&spm=a2g2w.productlist.search_results.6.324f9d220HCdov
   Отладочная плата STM32F407VET6   1 шт     33byn https://ozon.by/product/plata-razrabotki-drg-stm32f407vet6-3182791676/?at=VvtzE1WryFmkKDlFmMVVv1Fo2x5zRHXXPnwVHyZJ1wy
 - Провода                          1 компл  10byn https://ozon.by/product/provoda-peremychki-dupont-10-sm-120-sht-40-mama-mama-40-papa-papa-40-papa-mama-dlya-arduino-3714018128/?at=28t04oJ4QSWOX0YVT1lVxMwswAjynnu3KBzAAIKzE53p
-  LM2596S                                   10byn https://ozon.by/product/2-sht-reguliruemyy-ponizhayushchiy-modul-dc-dc-lm2596s-preobrazovatel-vstraivaemyy-1308233304/
-  Стойки пластиковые                        12byn https://ozon.by/product/kls-plastikovye-stoyki-dlya-pechatnyh-plat-20-mm-rezba-m3-shestigrannaya-neylon-otverstie-2763739215/?at=36tWPYJPvIqj68NJiKzkZB7hJQPmy8CzoKwP4tqwxn76&from_sku=2763739091&oos_search=false
-  Текстолит                                 17byn https://ozon.by/product/2-sht-fr1-1-tekstolit-folgirovannyy-100x200x1-5-odnostoronniy-dlya-pechatnyh-plat-2769545087/?at=LZtlgMpg2s1Gl3wqHAL4jDwTvLv97Dt4lrZv3fnDq47l&from_sku=2769544634&oos_search=false
-  Винты                                     14byn https://ozon.by/product/komplekt-m3-vint-gayka-shayba-grover-600sht-1-1052064520/?at=J8tg2Lm2ocn8P9xni07AAwEILPRQBJFDvwBLPiYjAzAm
-  Шайбы пластиковые                          8byn https://ozon.by/product/shayba-ploskaya-din-125-m3-50-sht-poliamid-neylon-3521945827/?at=PjtJ2Ar2nc6DYoq3uZBQ7m6ILkQ91vFgZp8W4ikXlBvN&from_sku=3521947678&oos_search=false
+- LM2596S                                   10byn https://ozon.by/product/2-sht-reguliruemyy-ponizhayushchiy-modul-dc-dc-lm2596s-preobrazovatel-vstraivaemyy-1308233304/
+- Стойки пластиковые                        12byn https://ozon.by/product/kls-plastikovye-stoyki-dlya-pechatnyh-plat-20-mm-rezba-m3-shestigrannaya-neylon-otverstie-2763739215/?at=36tWPYJPvIqj68NJiKzkZB7hJQPmy8CzoKwP4tqwxn76&from_sku=2763739091&oos_search=false
+- Текстолит                                 17byn https://ozon.by/product/2-sht-fr1-1-tekstolit-folgirovannyy-100x200x1-5-odnostoronniy-dlya-pechatnyh-plat-2769545087/?at=LZtlgMpg2s1Gl3wqHAL4jDwTvLv97Dt4lrZv3fnDq47l&from_sku=2769544634&oos_search=false
+- Винты                                     14byn https://ozon.by/product/komplekt-m3-vint-gayka-shayba-grover-600sht-1-1052064520/?at=J8tg2Lm2ocn8P9xni07AAwEILPRQBJFDvwBLPiYjAzAm
+- Шайбы пластиковые                          8byn https://ozon.by/product/shayba-ploskaya-din-125-m3-50-sht-poliamid-neylon-3521945827/?at=PjtJ2Ar2nc6DYoq3uZBQ7m6ILkQ91vFgZp8W4ikXlBvN&from_sku=3521947678&oos_search=false
