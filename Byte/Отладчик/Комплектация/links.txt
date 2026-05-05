@@ -1,0 +1,7 @@
+CoreEP3C16
+https://www.waveshare.com/wiki/CoreEP3C16
+
+Core746I
+https://stm32-base.org/boards/STM32F746IGT6-WaveShare-Core7XXI.html
+https://github.com/STM32-base/STM32-base.github.io/blob/master/boards/STM32F746IGT6-WaveShare-Core7XXI.md
+https://www.waveshare.com/wiki/Core746I
